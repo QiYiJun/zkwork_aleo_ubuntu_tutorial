@@ -1,5 +1,6 @@
 # 介绍
-这是一个 [zkwork_aleo_gpu_worker](https://github.com/6block/zkwork_aleo_gpu_worker/blob/master) 部署的教程 <== 你可以点击蓝色文字了解详情
+这是一个 从零开始 Ubuntu 部署 [zkwork_aleo_gpu_worker](https://github.com/6block/zkwork_aleo_gpu_worker/blob/master) 的教程 <== 你可以点击蓝色文字了解 zkwork_aleo_gpu_worker</br>
+在 Ubuntu 上安装驱动要比 Windows 上难一些，但是不用担心，我将会一步步的带你安装，如果你有疑问，点这里提交 [issue](https://github.com/QiYiJun/zkwork_aleo_ubuntu_tutorial/issues/new)
 
 # 系统与驱动版本
 - 系统：Ubuntu 22.04
@@ -8,8 +9,15 @@
 
 # 安装
 - ## 系统
-
-  如果你不会安装 Ubuntu 系统，那就去 [哔哩哔哩](https://www.bilibili.com/) 或者 [YouTube](https://www.youtube.com) 看相关教程
+  如果你不会安装 Ubuntu 系统，那就去 [哔哩哔哩](https://www.bilibili.com/) 或者 [YouTube](https://www.youtube.com) 观看相关教程</br>
+  我有时间的话会给大家制作图文教程与视频教程 (挖大坑)</br>
+  <b>Ubuntu 镜像站</b>
+  - [官网](https://ubuntu.com/download/desktop)
+  - [网易](http://mirrors.163.com/ubuntu-releases/)
+  - [阿里云](http://mirrors.aliyun.com/ubuntu-releases/)
+  - [浙江大学](http://mirrors.zju.edu.cn/ubuntu-releases/)
+  - [北京理工大学](http://mirror.bit.edu.cn/ubuntu-releases/)
+  - [中国科技技术大学](http://mirrors.ustc.edu.cn/ubuntu-releases/)
 
 - ## NVIAIA 显卡驱动 + CUDA Toolkit
 
