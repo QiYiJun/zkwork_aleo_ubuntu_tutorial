@@ -62,11 +62,13 @@
 
 - ## 部署 zkwork_aleo_gpu_worker
   ### 下载 zkwork miner 并解压
+  在下载之前，请前往 [zkwork_aleo_gpu_worker/releases](https://github.com/6block/zkwork_aleo_gpu_worker/releases) ，下述命令中的版本为v0.1.1，如果有新版本或者想要指定版本，请替换wget后的链接
   ```
   wget https://github.com/6block/zkwork_aleo_gpu_worker/releases/download/v0.1.1/aleo_prover-v0.1.1.tar.gz
   tar -zvxf aleo_prover-v0.1.1.tar.gz
   cd aleo_prover
   ```
+  
 
   ### 打开并更新 `run_prover.sh` 文件内容
   Tips：如果你使用的系统带desktop，可以找到文件并双击打开进行编辑，这样会比较方便</br>
