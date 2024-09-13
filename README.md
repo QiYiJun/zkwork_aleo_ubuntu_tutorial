@@ -1,6 +1,6 @@
 # 介绍
 这是一个 从零开始 Ubuntu 部署 [zkwork_aleo_gpu_worker](https://github.com/6block/zkwork_aleo_gpu_worker/blob/master) 的教程 <== 你可以点击蓝色文字了解 zkwork_aleo_gpu_worker</br>
-在 Ubuntu 上安装驱动要比 Windows 上难一些，但是不用担心，我将会一步步的带你安装，如果你有疑问，点这里提交 [issue](https://github.com/QiYiJun/zkwork_aleo_ubuntu_tutorial/issues/new)
+我在 Ubuntu 上部署的过程中，较难的部分就是安装驱动，Ubuntu 上安装驱动要比 Windows 上难一些，但是不用担心，我将会一步步的带你安装，如果你有疑问，点这里提交 [issue](https://github.com/QiYiJun/zkwork_aleo_ubuntu_tutorial/issues/new)
 
 # 系统与驱动版本
 - 系统：Ubuntu 22.04
