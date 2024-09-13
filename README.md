@@ -16,7 +16,7 @@
   - [网易](http://mirrors.163.com/ubuntu-releases/)
   - [阿里云](http://mirrors.aliyun.com/ubuntu-releases/)
   - [浙江大学](http://mirrors.zju.edu.cn/ubuntu-releases/)
-  - [北京理工大学](http://mirror.bit.edu.cn/ubuntu-releases/)
+  - [<del>北京理工大学</del>](http://mirror.bit.edu.cn/ubuntu-releases/)（已失效）
   - [中国科技技术大学](http://mirrors.ustc.edu.cn/ubuntu-releases/)
 
 - ## NVIAIA 显卡驱动 + CUDA Toolkit
