@@ -57,7 +57,7 @@ Graphics Clock Offset    Memory Transfer Rate Offset
     <td>300</td>
     <td>1500</td>
   </tr>
-  <tr><td></td><td></td></tr>
+  <tr><td colspan="2"></td></tr>
   <tr>
     <td colspan="2" align="center"  ><b>我的最稳定参数，最舒服参数</b></td>
   </tr>
