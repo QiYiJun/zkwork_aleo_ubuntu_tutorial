@@ -29,7 +29,7 @@
 
   ### 重启！
   输入`nvidia-smi`，如果出现下述界面，并包含 NVIDIA驱动 和 CUDA 的版本号，就说明安装成功了
-  ![nvidia-smi](./screenshots/nvidia-smi.png)
+  ![nvidia-smi-550](./screenshots/nvidia-smi-550.png)
   
 
   <details>
@@ -72,7 +72,7 @@
     sudo apt install nvidia-driver-535 nvidia-dkms-535 nvidia-cuda-toolkit
     ```
     输入`nvidia-smi`，如果出现下述界面，并包含 NVIDIA 驱动 和 CUDA 的版本号，就说明安装成功了
-          ![nvidia-smi](./screenshots/nvidia-smi-550.png)
+          ![nvidia-smi](./screenshots/nvidia-smi.png)
   </details>
 
 - ## 部署 zkwork_aleo_gpu_worker
