@@ -77,16 +77,16 @@
 
 - ## 部署 zkwork_aleo_gpu_worker
   ### 下载 zkwork miner 并解压
-  在下载之前，请前往 [zkwork_aleo_gpu_worker/releases](https://github.com/6block/zkwork_aleo_gpu_worker/releases) ，下述命令中的版本为v0.1.1，如果有新版本或者想要指定版本，请替换wget后的链接
+  在下载之前，请前往 [zkwork_aleo_gpu_worker/releases](https://github.com/6block/zkwork_aleo_gpu_worker/releases) ，下述命令中的版本为v0.2.1，如果有新版本或者想要指定版本，请替换wget后的链接
   ```
-  wget https://github.com/6block/zkwork_aleo_gpu_worker/releases/download/v0.1.1/aleo_prover-v0.1.1.tar.gz
-  tar -zvxf aleo_prover-v0.1.1.tar.gz
+  wget https://github.com/6block/zkwork_aleo_gpu_worker/releases/download/v0.2.1/aleo_prover-v0.2.1.tar.gz
+  tar -zvxf aleo_prover-v0.2.1.tar.gz
   cd aleo_prover
   ```
 
   ### 更新文件内容
   Tips：如果你使用的系统带desktop，可以找到文件并双击打开进行编辑，这样会比较方便</br>
-  删掉原来的内容，复制粘贴模板，你需要更新的内容是 `reward_address` 和 `custom_name`</br>
+  删掉原来的内容，根据你使用的版本，选择对应的模板复制粘贴，你需要更新的内容是 `reward_address` 和 `custom_name`</br>
   你可以选择使用这些钱包 [foxwallet](https://foxwallet.com/), [leowallet](https://www.leo.app/), [puzzle wallet](https://puzzle.online/)
   <details>
     <summary>v0.1.1</summary>
