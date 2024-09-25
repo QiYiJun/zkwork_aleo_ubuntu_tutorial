@@ -114,7 +114,7 @@
     ```
   </details>
   <details>
-    <summary>v0.1.3</summary>
+    <summary>v0.1.3 ~ v0.2.1</summary>
 
     打开文件`inner_prover.sh`，并更新内容</br>
     ```
